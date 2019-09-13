@@ -1,0 +1,34 @@
+{
+  "name": "xylemweb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "description": "A website for \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C portfolio website for xylem",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Retynar/xylemWeb.git"
+  },
+  "keywords": [
+    "xylem",
+    "website",
+    "www.xylem.com"
+  ],
+  "author": "kareem fawas and azeez lukman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Retynar/xylemWeb/issues"
+  },
+  "homepage": "https://github.com/Retynar/xylemWeb#readme"
+}
